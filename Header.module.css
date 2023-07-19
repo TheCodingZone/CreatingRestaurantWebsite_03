@@ -45,6 +45,7 @@
     box-shadow: 2px  2px  4px  4px   rgb(27, 25, 25);
     padding: 6px 6px;
     animation: meals-appear 1s ease-out forwards;
+    margin-top: -10rem;
   }
   @keyframes meals-appear {
     from {
@@ -59,4 +60,6 @@
   }
   body{
    background-color: rgb(83, 80, 80);
+   color: beige;
   }
+  
